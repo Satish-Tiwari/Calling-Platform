@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "graphify": {
+      "command": "npx",
+      "args": [
+        "@sentropic/graphify",
+        "serve",
+        ".graphify/graph.json"
+      ],
+      "env": {}
+    }
+  }
+}

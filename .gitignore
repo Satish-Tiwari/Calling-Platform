@@ -35,3 +35,11 @@ Thumbs.db
 .system_generated/
 scratch/
 *.log
+
+# Graphify cache & transient data
+.graphify/cache/
+.graphify/transcripts/
+.graphify/converted/
+.graphify/.*.json
+
+

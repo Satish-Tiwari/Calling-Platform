@@ -1,0 +1,262 @@
+{
+  "frontend/postcss.config.js": {
+    "mtime": 1789280518620.0732,
+    "hash": "ef3ba2a81ba19f8ea5ddf625521e96f0"
+  },
+  "frontend/src/App.tsx": {
+    "mtime": 1789291525468.0146,
+    "hash": "dc89a657587bb4c7105abac12071c933"
+  },
+  "frontend/src/components/auth/AuthModal.tsx": {
+    "mtime": 1789287748535.9658,
+    "hash": "3fa381d4ae06165d7fb40eaee799dbb3"
+  },
+  "frontend/src/components/auth/LoginModal.tsx": {
+    "mtime": 1789283151356.1145,
+    "hash": "b65119cbc41ebc492b0c6bef15d1f113"
+  },
+  "frontend/src/components/auth/RegisterModal.tsx": {
+    "mtime": 1789283162486.9702,
+    "hash": "5d42fc5764ed4e9f6e1a4d05769ca072"
+  },
+  "frontend/src/components/call/ActiveCallModal.tsx": {
+    "mtime": 1789289824287.681,
+    "hash": "988b0bf972f2ec7eed54de6235f145d4"
+  },
+  "frontend/src/components/call/CallDurationTimer.tsx": {
+    "mtime": 1789280839576.175,
+    "hash": "7150192a7e0ff40e6efbf77548102bee"
+  },
+  "frontend/src/components/call/CallWaitingBanner.tsx": {
+    "mtime": 1789285081598.0337,
+    "hash": "6a94c242c076b30b1b8f328b4eb9a972"
+  },
+  "frontend/src/components/call/GroupCallCreatorModal.tsx": {
+    "mtime": 1789283109786.6594,
+    "hash": "455cfda74bf1d0d7372d4d4e2b800b7b"
+  },
+  "frontend/src/components/call/HeldCallBar.tsx": {
+    "mtime": 1789285111741.4473,
+    "hash": "05e21230643d09d8ae78acb5e1a7ee7a"
+  },
+  "frontend/src/components/call/IncomingCallModal.tsx": {
+    "mtime": 1789283119842.5269,
+    "hash": "5d6c2fae84c8c34719d2e575d90416d5"
+  },
+  "frontend/src/components/call/MergeCallModal.tsx": {
+    "mtime": 1789283098059.8147,
+    "hash": "c8eff6afa6408c47e0c8bdefb1f900b9"
+  },
+  "frontend/src/components/call/RemoteHoldBanner.tsx": {
+    "mtime": 1789285131417.0283,
+    "hash": "b851d8f2975219064d7e10deee6fddd7"
+  },
+  "frontend/src/components/chat/ChatArea.tsx": {
+    "mtime": 1789291352982.735,
+    "hash": "f170e40928ba1605eacc6e78750b2dcd"
+  },
+  "frontend/src/components/chat/ChatHeader.tsx": {
+    "mtime": 1789291322200.9487,
+    "hash": "1133ce3c4cf7db722ced574575c05b4d"
+  },
+  "frontend/src/components/chat/EmptyChatState.tsx": {
+    "mtime": 1789283228804.121,
+    "hash": "08a7c9ed4bd6bdbac5c93c26ec17f014"
+  },
+  "frontend/src/components/chat/MessageInput.tsx": {
+    "mtime": 1789283262830.6924,
+    "hash": "f66f06f2579097ef3193efd341965839"
+  },
+  "frontend/src/components/chat/MessageList.tsx": {
+    "mtime": 1789291341110.1436,
+    "hash": "f290b7ff0d794488d0822b61b11cddb2"
+  },
+  "frontend/src/components/settings/SettingsModal.tsx": {
+    "mtime": 1789289672154.008,
+    "hash": "df227835079c8e0f727a999a6a26c79b"
+  },
+  "frontend/src/components/sidebar/CallList.tsx": {
+    "mtime": 1789291386291.9275,
+    "hash": "d076ef6e1ace7f71885adc830ee0e47e"
+  },
+  "frontend/src/components/sidebar/ChatList.tsx": {
+    "mtime": 1789287975185.9036,
+    "hash": "b6d2c7280ed5402b1bb81f02408cc926"
+  },
+  "frontend/src/components/sidebar/Sidebar.tsx": {
+    "mtime": 1789291487926.6096,
+    "hash": "46876c8457804f17ca9f37e31e3f5749"
+  },
+  "frontend/src/components/sidebar/SidebarHeader.tsx": {
+    "mtime": 1789287861772.2573,
+    "hash": "3860c09a28aeef49144e4d94f8239418"
+  },
+  "frontend/src/components/sidebar/UserSwitcherModal.tsx": {
+    "mtime": 1789283171127.8584,
+    "hash": "12dad5edcfcad99e03edd52256fd4145"
+  },
+  "frontend/src/context/AuthContext.tsx": {
+    "mtime": 1789291114242.7756,
+    "hash": "0b6a91184f8ac1b3f563df91248d60c1"
+  },
+  "frontend/src/context/CallContext.tsx": {
+    "mtime": 1789286105574.2964,
+    "hash": "ee725b360fa50150806a946d1c21e26a"
+  },
+  "frontend/src/context/SocketContext.tsx": {
+    "mtime": 1789281339901.0742,
+    "hash": "f88f9ccf71877d94c6def348e95a37d4"
+  },
+  "frontend/src/main.tsx": {
+    "mtime": 1789280978223.6543,
+    "hash": "db9d362286dbefc0ae8e9a86f059c4e9"
+  },
+  "frontend/src/services/api.ts": {
+    "mtime": 1789291293250.612,
+    "hash": "9b0def2dc1a2e02057b44f4e0baabf53"
+  },
+  "frontend/src/types/index.ts": {
+    "mtime": 1789289313278.7012,
+    "hash": "e20ed5e26226b61c38c0df758f2d30b6"
+  },
+  "frontend/src/utils/sound.ts": {
+    "mtime": 1789283054713.3953,
+    "hash": "d183365181fa712d3cc370e7e92fb1c7"
+  },
+  "frontend/tailwind.config.js": {
+    "mtime": 1789283012338.9734,
+    "hash": "589d671db2ed61aee3e0b27b03f7cebd"
+  },
+  "frontend/vite.config.ts": {
+    "mtime": 1789280506155.0964,
+    "hash": "a36ed08efc9bdec45442e4f6066d2a8a"
+  },
+  "src/app.module.ts": {
+    "mtime": 1789290989050.7285,
+    "hash": "3b5eadd3c130769d784108155e4b8b7d"
+  },
+  "src/auth/auth.controller.ts": {
+    "mtime": 1789287400209.2856,
+    "hash": "754d1e6475ff126b5be2148c47c86795"
+  },
+  "src/auth/auth.module.ts": {
+    "mtime": 1789287379165.9668,
+    "hash": "71c54f98dda240e006e227a59a0e0d50"
+  },
+  "src/auth/auth.service.ts": {
+    "mtime": 1789289303335.0774,
+    "hash": "e87b4d73acd84656eeb7962f501e1819"
+  },
+  "src/auth/dto/login.dto.ts": {
+    "mtime": 1789280608440.8765,
+    "hash": "1144d965db961725ed3ba21fa4510785"
+  },
+  "src/auth/dto/register.dto.ts": {
+    "mtime": 1789287363326.5098,
+    "hash": "5d8fd4c7a7fe21f79e6c311ad233a544"
+  },
+  "src/auth/jwt-auth.guard.ts": {
+    "mtime": 1789280626407.8313,
+    "hash": "184c5bd056e5657c27ecdd69e1e40701"
+  },
+  "src/auth/jwt.strategy.ts": {
+    "mtime": 1789291058998.0337,
+    "hash": "496c64b32916194e116db87ce2f34d6a"
+  },
+  "src/calls/calls.controller.ts": {
+    "mtime": 1789291239680.4927,
+    "hash": "1d8c0cfcf0967abac146584fd061676a"
+  },
+  "src/calls/calls.module.ts": {
+    "mtime": 1789280675291.6995,
+    "hash": "20de54cf3fcb84a6184258e11058ed6f"
+  },
+  "src/calls/calls.service.ts": {
+    "mtime": 1789291193092.7961,
+    "hash": "fbda00a8bf5fcf79b953e4b730e85dc2"
+  },
+  "src/email/email.module.ts": {
+    "mtime": 1789287318008.2131,
+    "hash": "c65c37b0594ffc4daf65d05ee9fe21b4"
+  },
+  "src/email/email.service.ts": {
+    "mtime": 1789287309291.3079,
+    "hash": "8a9717108ade26d45ff83c80f130f766"
+  },
+  "src/entities/call.entity.ts": {
+    "mtime": 1789282853073.255,
+    "hash": "44cb3351c8952d4fb46d74bb3f9a5c88"
+  },
+  "src/entities/friendship.entity.ts": {
+    "mtime": 1789287297777.4202,
+    "hash": "3358e5414070f266f7fc7944b1a40f1b"
+  },
+  "src/entities/message.entity.ts": {
+    "mtime": 1789280590162.9204,
+    "hash": "4c6cfc5108b9cba570e74f60b1b70e77"
+  },
+  "src/entities/user.entity.ts": {
+    "mtime": 1789289114041.4778,
+    "hash": "29ad81c182b65379a5ebcc4d5434c71e"
+  },
+  "src/friends/friends.controller.ts": {
+    "mtime": 1789287476772.0999,
+    "hash": "01d80fffd873a185e78c84a496f5bda1"
+  },
+  "src/friends/friends.module.ts": {
+    "mtime": 1789287488736.7893,
+    "hash": "797002fd3adc080442697091f3457d5d"
+  },
+  "src/friends/friends.service.ts": {
+    "mtime": 1789287469188.3003,
+    "hash": "f5c30565c5c0ebeb61894bcf93a6961c"
+  },
+  "src/main.ts": {
+    "mtime": 1789291076900.517,
+    "hash": "c916c5b26ca5270a8c73c77bed371b84"
+  },
+  "src/messages/messages.controller.ts": {
+    "mtime": 1789291272115.2207,
+    "hash": "644ebf13fe3c18bc4754546799ab9b1a"
+  },
+  "src/messages/messages.module.ts": {
+    "mtime": 1789280693687.6467,
+    "hash": "ea8cd2832105cdcca182ff2152ab865b"
+  },
+  "src/messages/messages.service.ts": {
+    "mtime": 1789291258324.482,
+    "hash": "b40391c19748920dc8d01e7e58f9f5d1"
+  },
+  "src/signaling/signaling.gateway.ts": {
+    "mtime": 1789291281701.4453,
+    "hash": "2de6c6b5cf29d106aee9044283f79d1f"
+  },
+  "src/signaling/signaling.module.ts": {
+    "mtime": 1789280709287.6006,
+    "hash": "349cdca980be526f3db5d37a205db1e5"
+  },
+  "src/users/users.controller.ts": {
+    "mtime": 1789289246490.2153,
+    "hash": "7092fdcd471bbc9d4cffc67153827fef"
+  },
+  "src/users/users.module.ts": {
+    "mtime": 1789280662470.735,
+    "hash": "5c7b2e1496d75ebb411443e795b2e166"
+  },
+  "src/users/users.service.ts": {
+    "mtime": 1789289203651.1738,
+    "hash": "3e89995f8d84e45d0610dd8932fce0e4"
+  },
+  "README.md": {
+    "mtime": 1789291086908.4976,
+    "hash": "977db617fd095e7910699b075753895b"
+  },
+  "docker-compose.yml": {
+    "mtime": 1789290915809.6904,
+    "hash": "3f07b57cabc472e0404954c7b5d56a9b"
+  },
+  "frontend/index.html": {
+    "mtime": 1789283021607.846,
+    "hash": "0b086dece955891ca7968c654163d184"
+  }
+}

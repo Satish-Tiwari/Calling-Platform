@@ -13,7 +13,13 @@
     "start:dev": "nest start --watch",
     "start:prod": "node dist/main",
     "docker:up": "docker compose up -d",
-    "docker:down": "docker compose down"
+    "docker:down": "docker compose down",
+    "graphify": "graphify",
+    "graphify:build": "bash .agents/skills/graphify/scripts/build-graph.sh",
+    "graphify:summary": "graphify summary",
+    "graphify:query": "graphify query",
+    "graphify:studio": "bash .agents/skills/graphify/scripts/export-studio.sh",
+    "graphify:watch": "graphify watch ."
   },
   "dependencies": {
     "@nestjs/common": "^10.4.15",
@@ -41,6 +47,7 @@
   "devDependencies": {
     "@nestjs/cli": "^10.4.9",
     "@nestjs/schematics": "^10.2.3",
+    "@sentropic/graphify": "^0.17.1",
     "@types/bcrypt": "^5.0.2",
     "@types/express": "^5.0.0",
     "@types/node": "^22.10.1",
